@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! 👋
 
 <!--
 **justin-online/justin-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Justin, a Computer Science student at Rice U, and I'm learning about web development and algorithms right now.
-Fun fact: I like urban dance and League of Legends!
+Fun fact: I like urban dance and League of Legends! 💃🎮
