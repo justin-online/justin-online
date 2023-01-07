@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Justin, a Computer Science student at Rice U, and I'm learning about web development and algorithms right now.
-Fun fact: I like urban dance and League of Legends! 💃🎮
+Fun fact: I'm an urban and hip-hop dancer!
