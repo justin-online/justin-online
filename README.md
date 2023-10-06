@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Justin, a Computer Science student at Rice U, and I'm learning about web development and algorithms right now.
-Fun fact: I'm an urban and hip-hop dancer!
+My name is Justin Lee and I'm a CS student at Rice University. In my spare time, I practice urban dance and scroll. I'm excited to explore AR/VR/XR technologies!
